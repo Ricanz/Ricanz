@@ -4,6 +4,10 @@ Thank you for visiting my page. Take a look and enjoy!! &nbsp;
 I would to be participating in open sources project ✨
 &nbsp;&nbsp;
 🌞 I buld code with love, that's why code loves me 💞
+Well, currently I'm working as Backend Developer, but sometimes I do integrating an API to the Frontend. &nbsp;
+Kindly check my another git to see my contribution on &nbsp;
+[a link]([(https://github.com/ctriyanti)]) &nbsp;
+I'm working on something intereseting in that Account
 
 ### Code that loves me 💘
 <div>
@@ -34,4 +38,5 @@ I would to be participating in open sources project ✨
 - ⚡ Fun fact: I love Gojo so much
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=Ricanz
+My personal Git Account Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ricanz&theme=dark&background=000000)](https://git.io/streak-stats)
