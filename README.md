@@ -6,6 +6,7 @@ I would to be participating in open sources project ✨
 🌞 I buld code with love, that's why code loves me 💞 <br>
 Well, currently I'm working as Backend Developer, but sometimes I do integrating an API to the Frontend. <br>
 Kindly check my another git to see my contribution on <br>
+[a link](https://github.com/ctriyanti) <br>
 [a link]((https://github.com/ctriyanti)) <br>
 I'm working on something intereseting in that Account
 
