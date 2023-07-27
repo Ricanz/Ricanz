@@ -27,8 +27,7 @@ I would to be participating in open sources project ✨
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<!--
-**Ricanz/Ricanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##**About Me** 
 
 Here are some ideas to get you started:
 
@@ -40,4 +39,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
