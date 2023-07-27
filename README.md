@@ -1,7 +1,6 @@
 ### Hello 👋
 
-Thank you for visiting my page. Take a look and enjoy!! <br>
-I would to be participating in open sources project ✨
+Thank you for visiting my page. Take a look and enjoy!! I would to be participating in open sources project ✨
 <br> <br>
 🌞 I buld code with love, that's why code loves me 💞 <br>
 📍 Well, currently I'm working as Backend Developer, but sometimes I do integrating an API to the Frontend. <br>
