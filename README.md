@@ -1,12 +1,12 @@
 ### Hello 👋
 
-Thank you for visiting my page. Take a look and enjoy!!
+Thank you for visiting my page. Take a look and enjoy!! <br>
 I would to be participating in open sources project ✨
-&nbsp;&nbsp;
-🌞 I buld code with love, that's why code loves me 💞
-Well, currently I'm working as Backend Developer, but sometimes I do integrating an API to the Frontend. &nbsp;
-Kindly check my another git to see my contribution on &nbsp;
-[a link]([(https://github.com/ctriyanti)]) &nbsp;
+<br> <br>
+🌞 I buld code with love, that's why code loves me 💞 <br>
+Well, currently I'm working as Backend Developer, but sometimes I do integrating an API to the Frontend. <br>
+Kindly check my another git to see my contribution on <br>
+[a link]((https://github.com/ctriyanti)) <br>
 I'm working on something intereseting in that Account
 
 ### Code that loves me 💘
