@@ -38,6 +38,8 @@ I'm working on something intereseting in that Account
 - 🌱 I’m currently learning AWS
 ! - ⚡ Fun fact: I love Gojo so much
 ```
+
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 ### :fire: My Stats :
 
 #### 🧨 My personal Git Account Stats
