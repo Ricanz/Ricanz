@@ -33,8 +33,8 @@ I'm working on something intereseting in that Account
 ### About Me
 
 - 🔭 I’m currently working on realtime news website lagsan.com
-- 🌱 I’m currently learning AWS
-! - ⚡ Fun fact: I love `Gojo` so much
+- 🌱 I’m currently learning AWS 
+- ⚡ Fun fact: I love `Gojo` so much
 
 ### :fire: My Stats :
 
