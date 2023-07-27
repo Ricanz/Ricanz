@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Thank you for visiting my page. Take a look and enjoy!! &nbsp;
+Thank you for visiting my page. Take a look and enjoy!!
 I would to be participating in open sources project ✨
 &nbsp;&nbsp;
 🌞 I buld code with love, that's why code loves me 💞
