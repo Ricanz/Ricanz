@@ -2,7 +2,7 @@
 
 Thank you for visiting my page. Take a look and enjoy!! I would to be participating in open sources project ✨
 <br> <br>
-🌞 I buld code with love, that's why code loves me 💞 <br>
+🌞 I build code with love, that's why code loves me 💞 <br>
 📍 Well, currently I'm working as Backend Developer, but sometimes I do integrating an API to the Frontend. <br>
 ♨️ Kindly check my another git to see my contribution on <br><br>
 [My Another Git Account, Click on it!](https://github.com/ctriyanti) <br><br>
