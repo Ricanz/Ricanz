@@ -5,7 +5,7 @@ I would to be participating in open sources project ✨
 <br> <br>
 🌞 I buld code with love, that's why code loves me 💞 <br>
 📍 Well, currently I'm working as Backend Developer, but sometimes I do integrating an API to the Frontend. <br>
-♨️ Kindly check my another git to see my contribution on <br>
+♨️ Kindly check my another git to see my contribution on <br><br>
 [My Another Git Account, Click on it!](https://github.com/ctriyanti) <br><br>
 I'm working on something intereseting in that Account
 
@@ -38,5 +38,9 @@ I'm working on something intereseting in that Account
 - ⚡ Fun fact: I love Gojo so much
 
 ### :fire: My Stats :
-My personal Git Account Stats
+
+# My personal Git Account Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ricanz&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricanz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
