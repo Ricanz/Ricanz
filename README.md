@@ -42,7 +42,7 @@ I'm working on something intereseting in that Account
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ricanz&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricanz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br><br<>
+<br><br>
 #### ➿My Another Git Account Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ctriyanti&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
